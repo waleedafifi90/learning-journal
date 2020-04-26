@@ -33,7 +33,6 @@ __Open Start > Programs > Accessories > Notepad__
 </html>
 ```
 ![GitHub Logo](https://www.w3schools.com/html/img_notepad.png)
-Format: ![Alt Text](https://www.w3schools.com/html/img_notepad.png)
 
 **CSS emplementation**
 
