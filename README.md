@@ -4,8 +4,9 @@ In this place you can learn every thing about programming language without any b
 ### Simple Coding
 **How to start you first HTML**
 
-``` <!DOCTYPE html>
- <html>
+```
+<!DOCTYPE html>
+<html>
   <head>
     <meta charset="UTF-8">
     <title>You page title goes here</title>
@@ -15,4 +16,22 @@ In this place you can learn every thing about programming language without any b
     Hello world ^_^
   </body>
 
-</html> ```
+</html>
+```
+
+**CSS emplementation**
+```
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+```
