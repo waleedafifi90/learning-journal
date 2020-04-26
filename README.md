@@ -25,6 +25,7 @@ We will talk about HTML and CSS in a very simple way the list shows what this re
 ```
 
 **CSS emplementation**
+
 css its easy to use only you need to get the selector from you html code then set it's attribute for it then it will work like a magic 
 ```
 body {
@@ -42,6 +43,7 @@ p {
 }
 ```
 **How to link you CSS file with HTML page**
+
 To link an external CSS file you must link it with a `<link>` tag inside `<head>` tag like below
 ```
   <link rel="stylesheet" type="text/css" href="style.css">
