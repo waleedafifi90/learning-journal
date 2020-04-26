@@ -2,6 +2,7 @@
 ### Benefit from a growth mindset
 
 __What is a growth mindset?__
+
 A growth mindset believes that one’s fundamental abilities can be developed. A growth mindset is synonymous with a love of learning.
 
 ![Image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
