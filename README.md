@@ -1,62 +1,56 @@
 # Learning Journal repo
-In this place you can learn every thing about programming language without any backgroung, so get ready to start your jerny 
 
-### Simple Coding
-We will talk about HTML and CSS in a very simple way the list shows what this repo about
-- [x] How to start HTML
-- [x] How to emplement CSS
-- [x] Link you CSS file with HTML page
+## Markdown
+- [x] Definition
+- [x] sample
+- [x] Guide
 
-**Step 1: Open Notepad (PC)**
+**What is a Markdown?**
 
-- [x] Windows 8 or later:
+Markdown is a way to style text on the web, display of the document, formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
 
-__Open the Start Screen (the window symbol at the bottom left on your screen). Type Notepad.__
+**Examples**
+Sometimes you want numbered lists:
 
-- [x] Windows 7 or earlier:
+1. One
+2. Two
+3. Three
 
-__Open Start > Programs > Accessories > Notepad__
-
-**How to start you first HTML**
 ```
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>You page title goes here</title>
-  </head>
-
-  <body>
-    Hello world ^_^
-  </body>
-
-</html>
-```
-![GitHub Logo](https://www.w3schools.com/html/img_notepad.png)
-
-**CSS emplementation**
-
-css its easy to use only you need to get the selector from you html code then set it's attribute for it then it will work like a magic 
-```
-body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
+if (isAwesome){
+  return true
 }
 ```
-**How to link you CSS file with HTML page**
 
-To link an external CSS file you must link it with a `<link>` tag inside `<head>` tag like below
-```
-<link rel="stylesheet" type="text/css" href="style.css">
-```
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
-##
+and much more to help other get involove with you code
+
+
+**Syntax guide**
+__Headers__
+
+you can use "#" to make a header like example 
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
+__Lists__
+Ordered
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
+Unordered
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+Images
+![GitHub Logo](/images/logo.png)
+
+
