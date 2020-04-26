@@ -3,9 +3,9 @@ In this place you can learn every thing about programming language without any b
 
 ### Simple Coding
 We will talk about HTML and CSS in a very simple way the list shows what this repo about
-*How to start HTML
-*How to emplement CSS
-*Link you CSS file with HTML page
+- [x] How to start HTML
+- [x] How to emplement CSS
+- [x] Link you CSS file with HTML page
 
 
 **How to start you first HTML**
@@ -42,7 +42,7 @@ p {
 }
 ```
 **How to link you CSS file with HTML page**
-To link an external CSS file you must link it with a **link** tag inside **head** tag like below
+To link an external CSS file you must link it with a `<link>` tag inside `<head>` tag like below
 ```
   <link rel="stylesheet" type="text/css" href="style.css">
 ```
