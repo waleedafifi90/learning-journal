@@ -20,7 +20,7 @@ In Zen and the Art of Motorcycle Maintenance, Robert Persig talks about the “g
 
 So when I find myself reaching for the snooze button, I consider all this. I make a conscious effort to stop and think about the growth mindset
 
-# This what I tell myself to clear my mind
+## This what I tell myself to clear my mind
 1. If they can do it I can do better from them
 2. The sweetness that I feel after I do a hard challenge this is the sweet I do love.
 3. When I do something wrong, I tell myself that everyone does mistakes so I try to fix it and try not to fall in it again
