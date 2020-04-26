@@ -46,7 +46,7 @@ p {
 
 To link an external CSS file you must link it with a `<link>` tag inside `<head>` tag like below
 ```
-  <link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 ```
 
 ##
