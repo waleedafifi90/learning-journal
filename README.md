@@ -3,7 +3,6 @@ In this place you can learn every thing about programming language without any b
 
 ### Simple Coding
 **How to start you first HTML**
-
 ```
 <!DOCTYPE html>
 <html>
@@ -20,6 +19,7 @@ In this place you can learn every thing about programming language without any b
 ```
 
 **CSS emplementation**
+css its easy to use only you need to get the selector from you html code then set it's attribute for it then it will work like a magic 
 ```
 body {
   background-color: lightblue;
@@ -35,3 +35,10 @@ p {
   font-size: 20px;
 }
 ```
+**How to link you CSS file with HTML page**
+To link an external CSS file you must link it with a **link** tag inside **head** tag like below
+```
+  <link rel="stylesheet" type="text/css" href="style.css">
+```
+
+##
