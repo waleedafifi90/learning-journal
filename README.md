@@ -2,6 +2,12 @@
 In this place you can learn every thing about programming language without any backgroung, so get ready to start your jerny 
 
 ### Simple Coding
+We will talk about HTML and CSS in a very simple way the list shows what this repo about
+*How to start HTML
+*How to emplement CSS
+*Link you CSS file with HTML page
+
+
 **How to start you first HTML**
 ```
 <!DOCTYPE html>
