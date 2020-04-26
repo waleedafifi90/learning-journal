@@ -7,6 +7,15 @@ We will talk about HTML and CSS in a very simple way the list shows what this re
 - [x] How to emplement CSS
 - [x] Link you CSS file with HTML page
 
+**Step 1: Open Notepad (PC)**
+
+- [x] Windows 8 or later:
+
+__Open the Start Screen (the window symbol at the bottom left on your screen). Type Notepad.__
+
+- [x] Windows 7 or earlier:
+
+__Open Start > Programs > Accessories > Notepad__
 
 **How to start you first HTML**
 ```
