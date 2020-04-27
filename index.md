@@ -5,8 +5,9 @@
 _Intro_
 
 Here in this repo you will learn everthing about repos, markdown, Github, "HTML", "CSS" and git so get ready to start your journey.
-*[HTML]: Hyper Text Markup Language
-*[CSS]: Cascading Style Sheets
+
+* [HTML]: Hyper Text Markup Language
+* [CSS]: Cascading Style Sheets
 
 **Table of content**
 1. [Home](https://waleedafifi90.github.io/learning-journal/)
