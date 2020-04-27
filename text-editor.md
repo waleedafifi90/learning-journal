@@ -1,3 +1,5 @@
+[< Back to home](https://waleedafifi90.github.io/learning-journal/)
+
 ![](https://kinsta.com/wp-content/uploads/2019/03/notepad-plus-plus-text-editor-1-1.png)
 
 # How to choose a text editor

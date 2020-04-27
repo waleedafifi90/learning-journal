@@ -1,3 +1,4 @@
+[< Back to home](https://waleedafifi90.github.io/learning-journal/)
 
 # Growth Mindset
 ### Benefit from a growth mindset
