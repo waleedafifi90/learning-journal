@@ -111,12 +111,12 @@ Documents/file1.txt: ERROR: cannot open 'file1.txt' (No such file or directory)
 
 #### Summary
 1. file
-  1. obtain information about what type of file a file or directory is.
+    1. obtain information about what type of file a file or directory is.
 2. ls -a
-  1. List the contents of a directory, including hidden files.
+    1. List the contents of a directory, including hidden files.
 3. Everything is a file under Linux
-  1. Even directories.
+    1. Even directories.
 4. Linux is an extensionless system
-  1. Files can have any extension they like or none at all.
+    1. Files can have any extension they like or none at all.
 5. Linux is case sensitive
-  1. Beware of silly typos.
+    1. Beware of silly typos.
