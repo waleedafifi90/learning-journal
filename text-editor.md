@@ -13,13 +13,14 @@ _Text editor came with you OS_
 there is an application came within you OS called **Notepad** this editor can be used to edit or write your text and it can be used to write development code for some programming languages
 
 ## Third-Party Options
-Application design by special company to make you coding life easier and better see the list blow show some application that caan be used
+Application design by special company to make you coding life easier and better see the list blow show some application that can be used
 
 1. Visual Studio Code
 2. Notepad++
 3. Atom
 4. Sublime Text
 
+![](https://miro.medium.com/max/1200/0*MyAfggJM7yH40Sdx.)
 ## The Difference Between TextEditors and IDEs
 A _text editor_ kind of gives away what it does in the title—it edits text. It also manages text, and manages files. I love that name “text wrangler” because in a way that’s what really a text editor does. Itwrangles your text together into something meaningful
 
