@@ -55,3 +55,10 @@ There are three way to implement your CSS with
 1. Inline CSS
 2. Add style tag into head and put your css on it
 3. External CSS file the link it to you page
+
+
+You can do you style in head like image below
+![Head-Style](https://webdev.imgix.net/codelab-extract-and-inline-critical-css/inline-critical-css.png)
+
+Or you can create new file called style.css and link it with Link in head tag
+![CSS-File](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEa8945FoKgb64v8jcXRvrdOxQ7gkrUUEFqrcaP5Ji69A5HPU1&usqp=CAU)
