@@ -47,7 +47,8 @@ Each tag in HTML must havr a close tag `<p></p>` and every tag can have one attr
 <p lang="en-us"> Waleed A. Afifi </p>
 ```
 
-## body, Head & titLe
+## body, head & title
+
 #### <body>
 
 You met the <body> element
