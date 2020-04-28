@@ -2,17 +2,16 @@
 
 _Introduction_
 
-In this cource you will learn more about HTML and CSS and to create your first web page
+In this course, you will learn more about HTML and CSS and to create your first web page
 
 **Why HTML?**
 1. HTML describes the structure of a web page 
 2. HTML is a tags language so every tag describe it's content
 
 
-## HtmL deScribeS tHe Structure of Pages
+## HTML describes tHe Structure of Pages
 
-In the browser window you can see a web page that features exactly
-the same content as the Word document you met on the page 18. To describe the structure of a web page, we add code to the words we want to appear on the page.
+ To describe the structure of a web page, we add code to the words we want to appear on the page.
 
 ```
 html>
@@ -71,7 +70,7 @@ on the tab for that page (if your browser uses tabs to allow you to view multipl
 ## How you can create Your first HTML page?
 
 You can use and code editor like VSC, Notepad++, XCode, Atom, etc..
-Or you can use the Notepad that installed in you PC the one that came with your Windows OS **Notead** all you new is open Notepad and copy the code in top of this page and paste it in Notepad the save the file with extention _.html_ and thats it.
+Or you can use the Notepad that installed in you PC the one that came with your Windows OS **Notepad** all you new is open Notepad and copy the code in the top of this page and paste it in Notepad then save the file with extension  _.html_  and that's it.
 
 
 ### HTML Summary
@@ -87,7 +86,7 @@ Or you can use the Notepad that installed in you PC the one that came with your 
 
 
 # Doctypes
-Html5 must have Doctypes in the bigining file like below
+Html5 must have Doctypes in the beginning file like below
 ```
 <!DOCTYPE html>
 ```
@@ -98,19 +97,22 @@ Html5 must have Doctypes in the bigining file like below
 ```
 
 **ID Attribute**
+
 You can add ID for one element only and it can not be repeated like
 ```
 <p id="MYParagraph"></p>
 ```
 
-**Class Attributte**
-Class can be emplemented to more than one element
+**Class Attribute**
+
+Class can be implemented to more than one element
 ```
 <p class="paragraph"></p>
 ```
 
 **Block element**
-Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
+
+Some elements will always appear to start on a new line in the browser window. These are known as block-level elements.
 ```
 <ul>
     <li>Science: 21 Nov - 20 Feb 2010/11</li>
