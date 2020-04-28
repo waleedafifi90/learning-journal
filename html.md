@@ -49,22 +49,22 @@ Each tag in HTML must have a close tag `<p></p>` and every tag can have one or m
 
 ## body, head & title
 
-#### <body>
+#### body
 
-You met the <body> element
+You met the body element
 in the first example we created. Everything inside this element is shown inside the main browser window.
 
 
-#### <Head>
+#### Head
 
-Before the <body> element you will often see a <head> element. This contains information
+Before the body element you will often see a head element. This contains information
 about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page).
-You will usually find a <title> element inside the <head> element.
+You will usually find a title element inside the head element.
 
 
-#### <Title>
+#### Title
 
-The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or
+The contents of the title element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or
 on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
 
 
@@ -119,7 +119,7 @@ Some elements will always appear to start on a new line in the browser window. T
     <li>Religion: 28 Aug - 6 Nov 2011</li>
 </ul>
 ```
-Examples of block elements are <h1>, <p>, <ul>, and <li>.
+Examples of block elements are h1, p, ul, and li.
 
 
 # HTML layout
