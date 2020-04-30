@@ -72,7 +72,7 @@ So when you need to insert number 9 in binary it will be __1001__
 - Xor
 
 #### Not
-A simple circuit takes an electronic signal and flips it so if signal is 1 it flip it to 0
+A simple circuit takes an electronic signal and flips it so if the signal is 1 it flip it to 0
 
 #### And
 The circuit will only give you a 1 if both circuit are 1
