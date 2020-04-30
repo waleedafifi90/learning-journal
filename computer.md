@@ -62,6 +62,8 @@ So when you need to insert number 9 in binary it will be __1001__
 
 ## Logical gates
 
+![](https://i.pinimg.com/originals/af/9d/ed/af9deddddf8ad84881c4668dff52107e.gif)
+
 - Not
 - And
 - Or
