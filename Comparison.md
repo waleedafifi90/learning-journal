@@ -109,11 +109,11 @@ a <= c; // returns true
 
 Logical operators are used to combine two or more conditions. JavaScript includes following logical operators.
 
-| Operator	    | Description                                                                                                                                   | 
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| &&	        | && is known as AND operator. It checks whether two operands are non-zero (0, false, undefined, null or "" are considered as zero)             |
-| ||           | || is known as OR operator. It checks whether any one of the two operands is non-zero (0, false, undefined, null or "" is considered as zero)  |
-| !            | ! is known as NOT operator. It reverses the boolean result of the operand (or condition)                                                       |
+| Operator	    | Description                                                                                                                                       | 
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| &&	        | && is known as AND operator. It checks whether two operands are non-zero (0, false, undefined, null or "" are considered as zero)                 |
+| ||            | || is known as OR operator. It checks whether any one of the two operands is non-zero (0, false, undefined, null or "" is considered as zero)     |
+| !             | ! is known as NOT operator. It reverses the boolean result of the operand (or condition)                                                          |
 
 __Example: Logical Operators__
 ```
