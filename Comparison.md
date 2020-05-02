@@ -27,7 +27,7 @@ JavaScript includes operators as in other languages. An operator performs some o
 | /	            | Divide left operand by right operand.                 |
 | %	            | Modulus operator. Returns remainder of two operands.  |
 | ++	        | Increment operator. Increase operand value by one.    |
-| --	        | Decrement operator. Decrease value by one.            |
+| '--'	        | Decrement operator. Decrease value by one.            |
 
 
 __Example: Arithmetic Operator__
