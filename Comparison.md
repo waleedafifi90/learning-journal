@@ -19,8 +19,8 @@ JavaScript includes operators as in other languages. An operator performs some o
 
 
 ### Arithmetic Operators
+
 | Operator	    | Description                                           | 
-| ------------- | ----------------------------------------------------- |
 | +	            | Adds two numeric operands.                            |
 | -	            | Subtract right operand from left operand              |
 | *	            | Multiply two numeric operands.                        |
